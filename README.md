@@ -13,3 +13,5 @@
 
 # Contact me
 - [Linkedin](https://www.linkedin.com/in/mateusxavier/)
+- [Medium](https://medium.com/@mateus.xavier)
+- [Email](mateusengq@outlook.com)
