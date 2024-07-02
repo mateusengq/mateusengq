@@ -8,7 +8,7 @@
 
 
 # Portfolio
-- [Client Segmentation]([)](https://github.com/mateusengq/RFV_PYTHON)
+- [Client Segmentation](https://github.com/mateusengq/RFV_PYTHON)
 
 
 # Contact me
