@@ -9,6 +9,7 @@
 
 # Projects
 - [Client Segmentation](https://github.com/mateusengq/RFV_PYTHON)
+- [Can We Identify Trends and Patterns Using News?](https://medium.com/p/b7a5c0f94e50)
 
 
 # Contact me
