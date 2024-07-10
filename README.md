@@ -9,8 +9,10 @@
 
 # Projects
 - [Client Segmentation](https://github.com/mateusengq/RFV_PYTHON)
-- [Can We Identify Trends and Patterns Using News?](https://medium.com/p/b7a5c0f94e50)
 
+# Stories/ Articles
+- [Can We Identify Trends and Patterns Using News?](https://medium.com/p/b7a5c0f94e50)
+- [Naive Bayes + Excel](https://medium.com/@mateus.xavier/detec%C3%A7%C3%A3o-de-fake-news-utilizando-naive-bayes-e-excel-um-guia-pr%C3%A1tico-144800b51ff3)
 
 # Contact me
 - [Linkedin](https://www.linkedin.com/in/mateusxavier/)
