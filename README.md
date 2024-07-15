@@ -8,8 +8,9 @@
 
 
 # Projects
-- [Client Segmentation](https://github.com/mateusengq/RFV_PYTHON)
+- [Client Segmentation - Clustering](https://github.com/mateusengq/RFV_PYTHON)
 - [Sentiment Analysis of Social Media Posts: Predicting Positive, Negative, and Neutral Comments](https://github.com/mateusengq/SOCIA_MEDIA_POSTS)
+In this project, I replicated the analysis method that I regularly use in my job to evaluate NPS (Net Promoter Score) comments. By applying this approach, I aimed to classify the comments as Positive, Negative, or Neutral to ensure timely actions on the feedback received. To achieve this, I employed several machine learning models, including Logistic Regression, Naive Bayes, SVM, Random Forest, and Gradient Boosting. Among these, Logistic Regression with class weights emerged as the best-performing model, demonstrating superior accuracy and reliability in classifying the comments accurately. This analysis confirms that leveraging sentiment classification can effectively streamline the process of handling NPS feedback, allowing for quicker and more targeted responses.
 
 # Stories/ Articles
 - [Can We Identify Trends and Patterns Using News?](https://medium.com/p/b7a5c0f94e50)
