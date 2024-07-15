@@ -9,6 +9,7 @@
 
 # Projects
 - [Client Segmentation](https://github.com/mateusengq/RFV_PYTHON)
+- [Sentiment Analysis of Social Media Posts: Predicting Positive, Negative, and Neutral Comments](https://github.com/mateusengq/SOCIA_MEDIA_POSTS)
 
 # Stories/ Articles
 - [Can We Identify Trends and Patterns Using News?](https://medium.com/p/b7a5c0f94e50)
