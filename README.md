@@ -1,6 +1,6 @@
 # Hi!
 
-- I'm Mateus Xavier from Brazil. I hold a B.Sc. in Chemical Engineering and an MBA with a specialization in Business Processes and Statistics.
+- I'm Mateus Xavier from Brazil. I hold a B.Sc. in Chemical Engineering and specialization in Business Processes and Statistics.
 
 - I am passionate about data science, statistics, and marketing. I am constantly working on projects in these areas. Explore them in my data science portfolio below!
 
