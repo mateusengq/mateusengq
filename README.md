@@ -18,7 +18,7 @@ In this project, I replicated the analysis method that I regularly use in my job
 - [Can We Identify Trends and Patterns Using News?](https://medium.com/p/b7a5c0f94e50)
 - [Naive Bayes + Excel](https://medium.com/@mateus.xavier/detec%C3%A7%C3%A3o-de-fake-news-utilizando-naive-bayes-e-excel-um-guia-pr%C3%A1tico-144800b51ff3)
 - [Arroz, Reclamações e Estatística: Como Erros Tipo I e II Afetam Nosso Cotidiano](https://medium.com/@mateus.xavier/arroz-reclama%C3%A7%C3%B5es-e-estat%C3%ADstica-como-erros-tipo-i-e-ii-afetam-nosso-cotidiano-d2d62a0be513)
-
+- [Análise de Cluster (agrupamentos) no Excel — Uso do K-means](https://medium.com/p/28c668b68804)
 # Contact me
 - [Linkedin](https://www.linkedin.com/in/mateusxavier/)
 - [Medium](https://medium.com/@mateus.xavier)
